@@ -12,10 +12,10 @@
 ## 🚀项目说明
 
 * 该项目主要用于解放大学生网课，减少无意义的水课网课让大学生能够做其他更值得去做的事情，而不是把时间浪费在网课上（指无意义的网课）
-
 * 当然对于有意义的网课我们还是不提倡使用yatori的，我们主要针对无意义网课
 
 ## 🚀目录说明
+
 ```md
 yatori-go-core
 ├─ utils 工具类
@@ -30,9 +30,6 @@ yatori-go-core
 
 ## 🎉贡献者
 
-<a href="https://github.com/yatori-dev/yatori-go-core/graphs/contributors">   <img src="https://contrib.rocks/image?repo=yatori-dev/yatori-go-core" /></a>
+`<a href="https://github.com/yatori-dev/yatori-go-core/graphs/contributors">`   `<img src="https://contrib.rocks/image?repo=yatori-dev/yatori-go-core" /></a>`
 
-
-
-[![Stargazers over time](https://starchart.cc/yatori-dev/yatori-go-core.svg?variant=adaptive)
-
+![Stargazers over time](https://starchart.cc/yatori-dev/yatori-go-core.svg?variant=adaptive)
